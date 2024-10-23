@@ -41,6 +41,12 @@ Kalian bisa juga mendukung inisiatif Online Learning dengan mengirimkan sedikit 
 
 Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 
+## Contributors
+
+Thanks goes to these wonderful people!
+
+![Contributors](https://contrib.rocks/image?repo=phpid-jakarta/phpid-learning)
+
 ---
 
 ©️ 2020 - present, with ❤️ by PHPID Team
